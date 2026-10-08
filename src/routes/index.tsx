@@ -168,9 +168,10 @@ function LotusApp() {
         <div className="mx-auto max-w-3xl space-y-7">
           <header className="flex items-start justify-between">
             <div>
+
               <h1 className="text-2xl font-semibold tracking-tight">
-                {greeting()}, Shreya! 🌙
-              </h1>
+  {"Progress over perfection🌷"}
+</h1>
               <p className="mt-1 text-sm text-muted-foreground">
                 Let&apos;s get some things done.
               </p>

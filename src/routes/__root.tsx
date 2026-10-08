@@ -77,7 +77,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lotus Tasks" },
+      { title: "Taskie" },
       { name: "description", content: "A calm, minimal personal to-do dashboard." },
       { name: "author", content: "Lotus Tasks" },
       { property: "og:title", content: "Lotus Tasks" },

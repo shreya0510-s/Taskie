@@ -23,7 +23,7 @@ function seed(): StoredState {
     { id: "college", name: "College", color: "var(--cat-blue)" },
     { id: "projects", name: "Projects", color: "var(--cat-purple)" },
     { id: "personal", name: "Personal", color: "var(--cat-pink)" },
-    { id: "bharatanatyam", name: "Bharatanatyam", color: "var(--cat-orange)" },
+  
     { id: "health", name: "Health", color: "var(--cat-green)" },
   ];
   const today = todayKey();
